@@ -1,0 +1,1 @@
+Chat software encrypted using the TOR encryption method, implemented from 0 using Python, WinForms, Linode. Includes remote server storage, GUI, working with SQL.
