@@ -30,6 +30,6 @@ Contributions, suggestions, and feedback from the open-source community are welc
 
 **Stay Connected:**
 - **GitHub Repository:** [Link](#) https://github.com/KerenShay877/TOR.git
-- **Contact:** For inquiries or support, reach out to [Your Contact Information].
+- **Contact:** For inquiries or support, reach out to shaikeren877@gmail.com.
 
 Secure your communications with TOR-Encrypted Chat Software and enjoy peace of mind while messaging privately!
